@@ -41,14 +41,20 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Contributions
+
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Nimbinu&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nimbinu&theme=tokyonight" />
+  <!-- 🌟 Dynamic Contribution Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nimbinu&theme=react-dark&hide_border=true&area=true&color=800080&line=800080&point=FFFFFF&custom_title=Binuri%20Nimthera's%20Contribution%20Graph" alt="Binuri Nimthera's Contribution Graph" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nimbinu&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Nimbinu&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nimbinu&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nimbinu&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
