@@ -9,10 +9,10 @@
 ---
 
 ### 🧑‍💻 About Me
-- 🔍 Passionate about software quality, test automation & continuous improvement  
-- 🧪 Skilled in **Manual Testing, Selenium, Postman & API testing**
-- ♾️ Learning **Automation frameworks, CI/CD & QA best practices**
-- ☁️ Exploring cloud deployment & DevOps concepts  
+- 🔍 Passionate about software quality, automation, and problem-solving
+- 🧪 Skilled in **Manual Testing, Selenium, Postman, and API Testing**
+- 🚀 Good understanding of SDLC & STLC, Agile testing, defect tracking
+- ☁️ Learning automation frameworks & cloud-based testing tools
 - 📫 Reach me at: **binuthera@gmail.com**
 - 🌐 Visit my portfolio: [https://github.com/Nimbinu/portfolio](https://github.com/Nimbinu/portfolio)
 
@@ -23,6 +23,9 @@
   <a href="https://linkedin.com/in/binuri-nimthera" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-800080?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://facebook.com/gallagebinuri" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-800080?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
   <a href="mailto:binuthera@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-800080?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -30,9 +33,9 @@
 
 ---
 
-### 🛠️ QA Skills & Tools
+### 🛠️ Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=selenium,postman,git,html,css,js,java,nodejs,mysql,react,figma,arduino" />
+  <img src="https://skillicons.dev/icons?i=selenium,postman,git,html,css,js,react,nodejs,express,mysql,java,php,figma,arduino,firebase,laravel,bootstrap" />
 </p>
 
 ---
@@ -53,19 +56,25 @@
 
 ---
 
-### 🚀 QA Related Projects
-- **Test Automation Samples** *(Coming Soon!)*  
-  Framework-based UI + API Test Automation project  
+### 🚀 Featured Projects
+- [![StockGuard](https://img.shields.io/badge/StockGuard-IoT%20Inventory-800080?style=for-the-badge&logo=github)](https://github.com/Nimbinu/StockGuard)  
+  **Tech Stack:** ESP8266 NodeMCU · Load Cell · Hx711 · Firebase · Arduino · HTML · CSS · PHP · VS Code  
+  **Description:** IoT-powered system for real-time stock monitoring and automated replenishment, improving inventory accuracy and supporting data-driven retail decisions.
 
-- **Bug Tracking & Reporting Demo** *(Coming Soon!)*  
-  A sample QA project with test cases & reports to showcase practical skills
+- [![E-Satahan](https://img.shields.io/badge/E--Satahan-Online%20Note%20Sharing-800080?style=for-the-badge&logo=github)](https://github.com/Nimbinu/E-Satahan)  
+  **Tech Stack:** HTML · CSS · JavaScript · PHP · MySQL  
+  **Description:** Web-based system enabling students to upload, share, and access academic notes with authentication, responsive UI, and real-time usability.
+
+- [![EduBridge-Parent](https://img.shields.io/badge/EduBridge-Parent%20Teacher%20Management-800080?style=for-the-badge&logo=github)](https://github.com/Nimbinu/EduBridge-Parent)  
+  **Tech Stack:** Laravel · PHP · MySQL · Blade · WhatsApp Business API · HTML · CSS · JS · Bootstrap  
+  **Description:** Web platform improving parent–teacher communication with real-time grades, attendance, announcements, and PDF report generation.
 
 ---
 
 ### 🎯 Fun Facts
-- 🧠 Highly focused on **quality, accuracy & user experience**
-- 🤖 Practicing **automation workflows & real-time testing**
-- 📌 Always eager to learn new testing tools & methodologies
+- 🧠 Focused on **quality, accuracy & user satisfaction**
+- 🤖 Building automation skills step-by-step
+- 🌱 Improving knowledge of CI/CD & DevOps tools
 - ✨ Goal: Become a **QA Automation Engineer**
 
 ---
